@@ -2,6 +2,8 @@
 
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjita-pandey)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i_.arjitapandey)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](arjitapandey21@gmail.com)
 
 ---
 
@@ -24,5 +26,3 @@
 
 ---
 
-### 📊 GitHub Stats:
-![Arjita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arjita-pandey&show_icons=true&theme=dark&hide_border=true&count_private=true)
