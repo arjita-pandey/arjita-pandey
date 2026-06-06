@@ -27,5 +27,7 @@
 ---
 ### ☕ Caffeine-Driven Musings
 
-[![Readme Quotes](https://github-readme-quotes.vercel.app/api?theme=dark)](https://github.com/shivamkapasia0/github-readme-quotes)
+### ☕ Caffeine-Driven Musings
+
+[![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/quotes-github-readme)
 
