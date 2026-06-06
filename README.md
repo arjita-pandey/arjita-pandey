@@ -25,4 +25,7 @@
 * 🔬 **Research Skills**
 
 ---
+### ☕ Caffeine-Driven Musings
+
+[![Readme Quotes](https://github-readme-quotes.vercel.app/api?theme=dark)](https://github.com/shivamkapasia0/github-readme-quotes)
 
