@@ -32,13 +32,14 @@ Below are the automated metrics reflecting my active code contributions, core la
 </p>
 
 ---
+---
 
 ### ⚡ Professional Musings
 
 > "To be a hacker - when I use the term - is somebody who is creative and does wonderful things."
 
 <p align="center">
-  <img src="https://komarev.com/ghvc/?username=ArJiTa11-io&label=Profile%20Views&color=0077b5&style=flat-square" alt="Views Counter" />
+  <img src="https://profile-counter.glitch.me/ArJiTa11-io/count.svg" alt="Profile Views Counter" />
 </p>
 
 
