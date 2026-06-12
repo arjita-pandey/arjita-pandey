@@ -1,6 +1,5 @@
 # Hi there, I'm Arjita! 👋
 
-A data-driven software engineer focused on building clean data pipelines, structural analytics, and predictive machine learning models.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arjita-pandey"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
