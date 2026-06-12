@@ -38,9 +38,7 @@ Below are the automated metrics reflecting my active code contributions, core la
 
 > "To be a hacker - when I use the term - is somebody who is creative and does wonderful things."
 
-<p align="center">
-  <img src="https://komarev.com/ghvc/?username=ArJiTa11-io&label=Profile%20Views&color=0077b5&style=flat-square" alt="Views Counter" />
-</p
+
 
 
 
