@@ -31,9 +31,10 @@ Below are the automated metrics reflecting my active code contributions, core la
 ---
 ---
 
-### ⚡ Professional Musings
+### ---
 
-> "To be a hacker - when I use the term - is somebody who is creative and does wonderful things."
+### ⚡ Absolute Dictum:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
